@@ -21,4 +21,4 @@ Currently the owner of Daniel Hosting. Hosting company starting at [3.99$ a mont
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=actuallydaniel&count_private=true)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallydaniel)
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
